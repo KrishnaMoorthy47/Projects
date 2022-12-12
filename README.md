@@ -1,5 +1,5 @@
 # Projects 
-# Project 1 - Twitter Sentimental Analysis
+# Project 1 - Twitter Sentiment Analysis
 # Project 2 - EDA for Instagram Influencers 
 Project 1 is about on Twitter Sentimental Analysis to Design a Classification Model that correctly predicts the polarity of the tweets provided in the dataset using NLTK.
 
